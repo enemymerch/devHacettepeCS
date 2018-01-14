@@ -7,7 +7,7 @@ Only Python Codes ...
 
 if your going to add new code, please orginize your file as this, your .py file should be under this file
 
-"semester"_"AssignmentNumber"_"ShortExplanationOfYourCode"
+semester_AssignmentNumber_ShortExplanationOfYourCode
   *.py
 
 Example:
