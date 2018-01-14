@@ -1,8 +1,16 @@
-# devHacettepeCS
+# devHacettepeCS - Machine Learning
 Undergraduate-Assignments-Examples
 
-Purpose of the creation of this repo is that we can provide some example code and examples for each other.
-If wanted anyone can become a contributor, just share your old codes. Don't  just delete them or keep them in drives.
-Share...
+Branch 406 - BBM 406 Assignments
 
-btw, you if can share your report with your code too.
+if your going to add new code, please orginize your file as this, your files should be under this directory like this one:
+
+semester_progLang_ShortExplanationOfYourCode
+
+Example: 20172018Fall_C++_InheritenceAndClassStructureWithC++ (*.cpp)
+
+PS: if you cannot remember the semester was your code just put "#" like:
+
+#_C++_InheritenceAndClassStructureWithC++
+
+(You need to fill Explanation and lang. part no matter what.)
