@@ -11,7 +11,7 @@ semester_AssignmentNumber_ShortExplanationOfYourCode
   (*.py)
 
 Example:
-20172018_3_InheritenceAndClassStructureWithPython
+20172018Fall_3_InheritenceAndClassStructureWithPython
   (main.py
   Car.py
   Vehicle.py
