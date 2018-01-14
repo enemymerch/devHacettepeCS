@@ -1,0 +1,44 @@
+CommandText: " SELECT CID,LastName,City,FirstName WHERE SocialSecurityNumber>2399998 AND LastName~a  AND FirstName~G AND City~B" 
+Result:
+
+CID		LastName		City		FirstName		
+11309		Anderson		Burien		Grace		
+9293		Andersen		Boulogne-Billancourt		Grant		
+207		Alderson		Bellevue		Greg		
+20195		Arun		Beaverton		George		
+
+-------------------
+ProcessTime: 365 milliseconds
+
+CommandText: " SELECT CID,LastName,City,FirstName WHERE SocialSecurityNumber>739999998 AND SocialSecurityNumber<971368918 AND FirstName~Gil" 
+Result:
+
+CID		LastName		City		FirstName		
+9582		Rai		Neunkirchen		Gilbert		
+9066		Zheng		Les Ulis		Gilbert		
+8961		Gao		Wollongong		Gilbert		
+9208		Xie		Billericay		Gilbert		
+9640		Becker		Oxford		Gilbert		
+
+-------------------
+ProcessTime: 112 milliseconds
+
+CommandText: " SELECT LastName,City,FirstName WHERE SocialSecurityNumber>869999998 AND SocialSecurityNumber<871368918" 
+Result:
+
+LastName		City		FirstName		
+Collins		Lebanon		Wyatt		
+Perry		Renton		Chloe		
+Torres		National City		Makayla		
+Romero		Frankfurt		Shannon		
+Pal		Silverwater		Clayton		
+Gao		Versailles		Clayton		
+Liu		London		Stacey		
+Cooper		National City		Nathaniel		
+Becker		Oxford		Gilbert		
+Robinson		Woodburn		Jonathan		
+Vazquez		Bellflower		Jessie		
+
+-------------------
+ProcessTime: 22 milliseconds
+
