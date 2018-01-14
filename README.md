@@ -5,17 +5,17 @@ Branch 103 - BBM 103 Assignments
 
 Only Python Codes ... 
 
-if your going to add new code, please orginize your file as this, your .py file should be under this file
+if your going to add new code, please orginize your file as this, your .py files should be under this dir like this one:
 
 semester_AssignmentNumber_ShortExplanationOfYourCode
-  *.py
+  (*.py)
 
 Example:
 20172018_3_InheritenceAndClassStructureWithPython
-  main.py
+  (main.py
   Car.py
   Vehicle.py
-  *.py
+  *.py)
 
 PS: if you cannot remember the semester and which assignment was your code just put "#" like:
 
