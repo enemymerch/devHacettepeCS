@@ -1,0 +1,12 @@
+calculate integer "2--1"
+calculate integer "-2--1"
+calculate integer "+2--1"
+calculate integer "2+-1"
+calculate integer "2++1"
+calculate integer "2-+1"
+calculate hex "B--1"
+calculate hex "B+-1"
+calculate hex "B++1"
+calculate hex "B-+1"
+calculate hex "-B--1"
+print
