@@ -7,10 +7,10 @@ if your going to add new code, please orginize your file as this, your files sho
 
 semester_progLang_ShortExplanationOfYourCode
 
-Example: 20172018Fall_C++_InheritenceAndClassStructureWithC++ (*.cpp)
+Example: 20172018Fall_Java_FindingShortestPath (*.java)
 
 PS: if you cannot remember the semester was your code just put "#" like:
 
-#_C++_InheritenceAndClassStructureWithC++
+#_Java_FindingShortestPath
 
 (You need to fill Explanation and lang. part no matter what.)
