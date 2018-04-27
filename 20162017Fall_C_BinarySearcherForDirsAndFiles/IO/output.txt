@@ -1,0 +1,1922 @@
+PRINT TREE ASC
+ 2012
+	1
+	3
+	b.txt 1
+ 345
+	1
+	5
+	b.txt 1
+ 545
+	1
+	4
+	b.txt 1
+ a
+	13
+	2
+	a.txt 4
+	b.txt 5
+	c.txt 4
+ abc
+	2
+	1
+	a.txt 1
+	b.txt 1
+ accurate
+	1
+	7
+	a.txt 1
+ achieved
+	1
+	10
+	c.txt 1
+ action
+	4
+	9
+	b.txt 4
+ actions
+	7
+	11
+	b.txt 7
+ agent
+	5
+	12
+	c.txt 5
+ algorithm
+	1
+	10
+	b.txt 1
+ allowing
+	1
+	11
+	c.txt 1
+ also
+	1
+	12
+	c.txt 1
+ an
+	2
+	8
+	a.txt 1
+	c.txt 1
+ and
+	19
+	6
+	a.txt 7
+	b.txt 7
+	c.txt 5
+ annotated
+	1
+	8
+	a.txt 1
+ any
+	1
+	7
+	a.txt 1
+ approach
+	1
+	9
+	a.txt 1
+ are
+	5
+	10
+	a.txt 1
+	b.txt 2
+	c.txt 2
+ argue
+	1
+	11
+	b.txt 1
+ arms
+	1
+	12
+	b.txt 1
+ autonomous
+	1
+	13
+	c.txt 1
+ auxiliary
+	1
+	8
+	a.txt 1
+ based
+	3
+	11
+	b.txt 3
+ body
+	12
+	12
+	b.txt 12
+ bootstrapping
+	1
+	10
+	a.txt 1
+ both
+	1
+	12
+	c.txt 1
+ bottom
+	1
+	11
+	b.txt 1
+ by
+	3
+	12
+	b.txt 2
+	c.txt 1
+ camera
+	1
+	9
+	a.txt 1
+ can
+	1
+	10
+	a.txt 1
+ carlo
+	1
+	13
+	c.txt 1
+ classifiers
+	1
+	14
+	c.txt 1
+ collaborative
+	1
+	12
+	c.txt 1
+ combination
+	1
+	11
+	b.txt 1
+ combine
+	1
+	12
+	c.txt 1
+ compiler
+	2
+	5
+	a.txt 2
+ computer
+	1
+	6
+	a.txt 1
+ concept
+	1
+	4
+	a.txt 1
+ confident
+	1
+	8
+	c.txt 1
+ convolutional
+	2
+	7
+	a.txt 1
+	c.txt 1
+ data
+	3
+	10
+	a.txt 3
+ dataset
+	1
+	13
+	b.txt 1
+ deep
+	3
+	12
+	b.txt 1
+	c.txt 2
+ deeper
+	1
+	13
+	c.txt 1
+ define
+	1
+	11
+	b.txt 1
+ demonstrate
+	1
+	9
+	a.txt 1
+ detail
+	1
+	10
+	b.txt 1
+ detection
+	2
+	8
+	a.txt 2
+ detector
+	1
+	6
+	a.txt 1
+ detectors
+	1
+	9
+	a.txt 1
+ directions
+	1
+	12
+	c.txt 1
+ directly
+	1
+	11
+	c.txt 1
+ discovered
+	1
+	13
+	c.txt 1
+ discuss
+	1
+	14
+	c.txt 1
+ diverse
+	1
+	12
+	c.txt 1
+ divide
+	1
+	10
+	b.txt 1
+ drawing
+	1
+	12
+	c.txt 1
+ each
+	2
+	11
+	b.txt 2
+ easily
+	1
+	13
+	c.txt 1
+ eg
+	1
+	12
+	b.txt 1
+ entire
+	1
+	13
+	b.txt 1
+ environment
+	1
+	14
+	c.txt 1
+ estimation
+	2
+	8
+	a.txt 2
+ estimator
+	1
+	7
+	a.txt 1
+ estimators
+	1
+	11
+	a.txt 1
+ excellent
+	1
+	10
+	a.txt 1
+ existing
+	1
+	12
+	b.txt 1
+ experimental
+	1
+	11
+	a.txt 1
+ experiments
+	1
+	13
+	b.txt 1
+ finally
+	1
+	12
+	b.txt 1
+ first
+	2
+	9
+	a.txt 1
+	b.txt 1
+ five
+	1
+	11
+	b.txt 1
+ fooled
+	1
+	12
+	c.txt 1
+ for
+	5
+	10
+	a.txt 2
+	b.txt 2
+	c.txt 1
+ form
+	1
+	8
+	a.txt 1
+ found
+	1
+	11
+	c.txt 1
+ from
+	1
+	10
+	b.txt 1
+ fully
+	1
+	9
+	a.txt 1
+ fuse
+	1
+	10
+	b.txt 1
+ future
+	1
+	11
+	c.txt 1
+ generates
+	1
+	5
+	a.txt 1
+ generation
+	1
+	8
+	a.txt 1
+ geometric
+	1
+	7
+	a.txt 1
+ geometrically
+	1
+	8
+	a.txt 1
+ given
+	1
+	6
+	a.txt 1
+ graphics
+	1
+	9
+	a.txt 1
+ hand
+	2
+	13
+	b.txt 2
+ hands
+	1
+	12
+	b.txt 1
+ having
+	1
+	13
+	c.txt 1
+ head
+	1
+	11
+	b.txt 1
+ holding
+	1
+	12
+	b.txt 1
+ however
+	1
+	13
+	c.txt 1
+ human
+	4
+	10
+	a.txt 2
+	b.txt 2
+ human-machine
+	1
+	11
+	c.txt 1
+ humans
+	3
+	8
+	a.txt 1
+	c.txt 2
+ idea
+	2
+	9
+	b.txt 2
+ image
+	3
+	7
+	a.txt 1
+	b.txt 1
+	c.txt 1
+ images
+	4
+	10
+	a.txt 1
+	c.txt 3
+ improvement
+	1
+	11
+	b.txt 1
+ in
+	6
+	9
+	a.txt 2
+	b.txt 2
+	c.txt 2
+ infers
+	1
+	10
+	a.txt 1
+ influence
+	1
+	11
+	c.txt 1
+ information
+	1
+	8
+	a.txt 1
+ into
+	1
+	9
+	b.txt 1
+ introduce
+	1
+	3
+	a.txt 1
+ investigate
+	1
+	9
+	c.txt 1
+ is
+	4
+	8
+	a.txt 1
+	b.txt 3
+ its
+	1
+	10
+	c.txt 1
+ jogging
+	1
+	9
+	b.txt 1
+ layout
+	1
+	7
+	a.txt 1
+ learn
+	1
+	8
+	a.txt 1
+ legs
+	1
+	13
+	b.txt 1
+ limited
+	1
+	15
+	c.txt 1
+ localized
+	1
+	14
+	b.txt 1
+ logistic
+	1
+	16
+	c.txt 1
+ map
+	1
+	15
+	b.txt 1
+ meaningful
+	1
+	12
+	b.txt 1
+ methods
+	1
+	11
+	b.txt 1
+ model
+	1
+	14
+	c.txt 1
+ models
+	2
+	13
+	c.txt 2
+ monte
+	1
+	12
+	c.txt 1
+ more
+	1
+	14
+	c.txt 1
+ mostly
+	1
+	15
+	c.txt 1
+ multinomial
+	1
+	13
+	c.txt 1
+ network
+	3
+	10
+	a.txt 1
+	b.txt 2
+ networks
+	2
+	11
+	c.txt 2
+ neural
+	4
+	9
+	a.txt 1
+	b.txt 1
+	c.txt 2
+ noise
+	1
+	11
+	c.txt 1
+ non-existent
+	1
+	10
+	a.txt 1
+ noticably
+	1
+	12
+	c.txt 1
+ novel
+	1
+	11
+	b.txt 1
+ objective
+	1
+	12
+	c.txt 1
+ observations
+	1
+	6
+	a.txt 1
+ of
+	11
+	5
+	a.txt 6
+	b.txt 3
+	c.txt 2
+ off-the-shelf
+	1
+	11
+	a.txt 1
+ on
+	4
+	12
+	a.txt 1
+	b.txt 3
+ optionally
+	1
+	13
+	c.txt 1
+ or
+	1
+	10
+	a.txt 1
+ our
+	2
+	11
+	a.txt 2
+ outperforms
+	1
+	12
+	a.txt 1
+ paper
+	1
+	13
+	b.txt 1
+ parameters
+	1
+	9
+	a.txt 1
+ part
+	7
+	10
+	b.txt 7
+ parts
+	4
+	11
+	b.txt 4
+ pascal
+	1
+	12
+	b.txt 1
+ pedestrian
+	3
+	8
+	a.txt 3
+ pedestrians
+	1
+	11
+	a.txt 1
+ photometrically
+	1
+	10
+	a.txt 1
+ pose
+	4
+	9
+	a.txt 4
+ possible
+	1
+	15
+	c.txt 1
+ predict
+	2
+	14
+	b.txt 2
+ produces
+	2
+	15
+	c.txt 2
+ propose
+	2
+	13
+	b.txt 2
+ provide
+	1
+	12
+	a.txt 1
+ random
+	1
+	14
+	c.txt 1
+ range
+	1
+	13
+	c.txt 1
+ real
+	2
+	11
+	a.txt 2
+ recent
+	1
+	13
+	c.txt 1
+ recognition
+	1
+	12
+	b.txt 1
+ recogonisable
+	1
+	15
+	c.txt 1
+ regression
+	1
+	14
+	c.txt 1
+ relate
+	1
+	15
+	c.txt 1
+ related
+	1
+	13
+	b.txt 1
+ remains
+	1
+	14
+	c.txt 1
+ rendering
+	1
+	10
+	a.txt 1
+ renders
+	1
+	11
+	a.txt 1
+ report
+	1
+	15
+	b.txt 1
+ res-net
+	1
+	14
+	b.txt 1
+ research
+	2
+	17
+	c.txt 2
+ resemble
+	1
+	16
+	c.txt 1
+ respectively
+	1
+	15
+	b.txt 1
+ results
+	1
+	13
+	a.txt 1
+ scarce
+	1
+	12
+	a.txt 1
+ scene
+	4
+	7
+	a.txt 4
+ scene-and-region
+	1
+	10
+	a.txt 1
+ search
+	1
+	14
+	c.txt 1
+ second
+	1
+	13
+	b.txt 1
+ segmentation
+	1
+	12
+	a.txt 1
+ semantic
+	4
+	14
+	b.txt 4
+ semi-fcn
+	1
+	16
+	b.txt 1
+ several
+	1
+	15
+	b.txt 1
+ shallow
+	2
+	16
+	c.txt 2
+ show
+	1
+	13
+	a.txt 1
+ simultaneous
+	1
+	11
+	a.txt 1
+ single
+	2
+	9
+	a.txt 1
+	b.txt 1
+ sketches
+	1
+	12
+	c.txt 1
+ solution
+	1
+	11
+	a.txt 1
+ solutions
+	1
+	12
+	c.txt 1
+ spatially-varying
+	1
+	10
+	a.txt 1
+ specific
+	2
+	8
+	a.txt 2
+ stanford40
+	1
+	11
+	b.txt 1
+ state-of-the-art
+	1
+	10
+	a.txt 1
+ state-of-theart
+	1
+	11
+	b.txt 1
+ strategy
+	1
+	9
+	a.txt 1
+ strongly
+	1
+	10
+	b.txt 1
+ svm
+	1
+	12
+	b.txt 1
+ system
+	1
+	11
+	b.txt 1
+ test
+	1
+	12
+	c.txt 1
+ that
+	8
+	6
+	a.txt 5
+	b.txt 1
+	c.txt 2
+ the
+	20
+	4
+	a.txt 5
+	b.txt 8
+	c.txt 7
+ these
+	2
+	7
+	a.txt 1
+	b.txt 1
+ they
+	1
+	9
+	c.txt 1
+ this
+	2
+	8
+	b.txt 1
+	c.txt 1
+ through
+	1
+	6
+	a.txt 1
+ to
+	6
+	10
+	b.txt 3
+	c.txt 3
+ torso
+	1
+	9
+	b.txt 1
+ trained
+	1
+	8
+	a.txt 1
+ trajectory
+	1
+	11
+	c.txt 1
+ tree
+	1
+	12
+	c.txt 1
+ two
+	1
+	10
+	b.txt 1
+ unlike
+	1
+	9
+	b.txt 1
+ unrecognisable
+	1
+	11
+	c.txt 1
+ up
+	1
+	10
+	b.txt 1
+ use
+	2
+	7
+	a.txt 1
+	b.txt 1
+ used
+	1
+	9
+	b.txt 1
+ user
+	1
+	10
+	c.txt 1
+ using
+	3
+	8
+	a.txt 1
+	c.txt 2
+ variety
+	1
+	9
+	c.txt 1
+ very
+	1
+	10
+	c.txt 1
+ visual
+	2
+	5
+	a.txt 2
+ voc
+	1
+	7
+	b.txt 1
+ waving
+	1
+	6
+	b.txt 1
+ we
+	14
+	2
+	a.txt 3
+	b.txt 6
+	c.txt 5
+ when
+	1
+	4
+	a.txt 1
+ which
+	4
+	5
+	b.txt 1
+	c.txt 3
+ while
+	2
+	6
+	c.txt 2
+ with
+	1
+	7
+	c.txt 1
+ without
+	1
+	3
+	a.txt 1
+ writing
+	1
+	4
+	b.txt 1
+REMOVE abc
+PRINT TREE ASC
+ 2012
+	1
+	3
+	b.txt 1
+ 345
+	1
+	5
+	b.txt 1
+ 545
+	1
+	4
+	b.txt 1
+ a
+	13
+	2
+	a.txt 4
+	b.txt 5
+	c.txt 4
+ accurate
+	1
+	1
+	a.txt 1
+ achieved
+	1
+	9
+	c.txt 1
+ action
+	4
+	8
+	b.txt 4
+ actions
+	7
+	10
+	b.txt 7
+ agent
+	5
+	11
+	c.txt 5
+ algorithm
+	1
+	9
+	b.txt 1
+ allowing
+	1
+	10
+	c.txt 1
+ also
+	1
+	11
+	c.txt 1
+ an
+	2
+	7
+	a.txt 1
+	c.txt 1
+ and
+	19
+	6
+	a.txt 7
+	b.txt 7
+	c.txt 5
+ annotated
+	1
+	8
+	a.txt 1
+ any
+	1
+	7
+	a.txt 1
+ approach
+	1
+	9
+	a.txt 1
+ are
+	5
+	10
+	a.txt 1
+	b.txt 2
+	c.txt 2
+ argue
+	1
+	11
+	b.txt 1
+ arms
+	1
+	12
+	b.txt 1
+ autonomous
+	1
+	13
+	c.txt 1
+ auxiliary
+	1
+	8
+	a.txt 1
+ based
+	3
+	11
+	b.txt 3
+ body
+	12
+	12
+	b.txt 12
+ bootstrapping
+	1
+	10
+	a.txt 1
+ both
+	1
+	12
+	c.txt 1
+ bottom
+	1
+	11
+	b.txt 1
+ by
+	3
+	12
+	b.txt 2
+	c.txt 1
+ camera
+	1
+	9
+	a.txt 1
+ can
+	1
+	10
+	a.txt 1
+ carlo
+	1
+	13
+	c.txt 1
+ classifiers
+	1
+	14
+	c.txt 1
+ collaborative
+	1
+	12
+	c.txt 1
+ combination
+	1
+	11
+	b.txt 1
+ combine
+	1
+	12
+	c.txt 1
+ compiler
+	2
+	5
+	a.txt 2
+ computer
+	1
+	6
+	a.txt 1
+ concept
+	1
+	4
+	a.txt 1
+ confident
+	1
+	8
+	c.txt 1
+ convolutional
+	2
+	7
+	a.txt 1
+	c.txt 1
+ data
+	3
+	10
+	a.txt 3
+ dataset
+	1
+	13
+	b.txt 1
+ deep
+	3
+	12
+	b.txt 1
+	c.txt 2
+ deeper
+	1
+	13
+	c.txt 1
+ define
+	1
+	11
+	b.txt 1
+ demonstrate
+	1
+	9
+	a.txt 1
+ detail
+	1
+	10
+	b.txt 1
+ detection
+	2
+	8
+	a.txt 2
+ detector
+	1
+	6
+	a.txt 1
+ detectors
+	1
+	9
+	a.txt 1
+ directions
+	1
+	12
+	c.txt 1
+ directly
+	1
+	11
+	c.txt 1
+ discovered
+	1
+	13
+	c.txt 1
+ discuss
+	1
+	14
+	c.txt 1
+ diverse
+	1
+	12
+	c.txt 1
+ divide
+	1
+	10
+	b.txt 1
+ drawing
+	1
+	12
+	c.txt 1
+ each
+	2
+	11
+	b.txt 2
+ easily
+	1
+	13
+	c.txt 1
+ eg
+	1
+	12
+	b.txt 1
+ entire
+	1
+	13
+	b.txt 1
+ environment
+	1
+	14
+	c.txt 1
+ estimation
+	2
+	8
+	a.txt 2
+ estimator
+	1
+	7
+	a.txt 1
+ estimators
+	1
+	11
+	a.txt 1
+ excellent
+	1
+	10
+	a.txt 1
+ existing
+	1
+	12
+	b.txt 1
+ experimental
+	1
+	11
+	a.txt 1
+ experiments
+	1
+	13
+	b.txt 1
+ finally
+	1
+	12
+	b.txt 1
+ first
+	2
+	9
+	a.txt 1
+	b.txt 1
+ five
+	1
+	11
+	b.txt 1
+ fooled
+	1
+	12
+	c.txt 1
+ for
+	5
+	10
+	a.txt 2
+	b.txt 2
+	c.txt 1
+ form
+	1
+	8
+	a.txt 1
+ found
+	1
+	11
+	c.txt 1
+ from
+	1
+	10
+	b.txt 1
+ fully
+	1
+	9
+	a.txt 1
+ fuse
+	1
+	10
+	b.txt 1
+ future
+	1
+	11
+	c.txt 1
+ generates
+	1
+	5
+	a.txt 1
+ generation
+	1
+	8
+	a.txt 1
+ geometric
+	1
+	7
+	a.txt 1
+ geometrically
+	1
+	8
+	a.txt 1
+ given
+	1
+	6
+	a.txt 1
+ graphics
+	1
+	9
+	a.txt 1
+ hand
+	2
+	13
+	b.txt 2
+ hands
+	1
+	12
+	b.txt 1
+ having
+	1
+	13
+	c.txt 1
+ head
+	1
+	11
+	b.txt 1
+ holding
+	1
+	12
+	b.txt 1
+ however
+	1
+	13
+	c.txt 1
+ human
+	4
+	10
+	a.txt 2
+	b.txt 2
+ human-machine
+	1
+	11
+	c.txt 1
+ humans
+	3
+	8
+	a.txt 1
+	c.txt 2
+ idea
+	2
+	9
+	b.txt 2
+ image
+	3
+	7
+	a.txt 1
+	b.txt 1
+	c.txt 1
+ images
+	4
+	10
+	a.txt 1
+	c.txt 3
+ improvement
+	1
+	11
+	b.txt 1
+ in
+	6
+	9
+	a.txt 2
+	b.txt 2
+	c.txt 2
+ infers
+	1
+	10
+	a.txt 1
+ influence
+	1
+	11
+	c.txt 1
+ information
+	1
+	8
+	a.txt 1
+ into
+	1
+	9
+	b.txt 1
+ introduce
+	1
+	3
+	a.txt 1
+ investigate
+	1
+	9
+	c.txt 1
+ is
+	4
+	8
+	a.txt 1
+	b.txt 3
+ its
+	1
+	10
+	c.txt 1
+ jogging
+	1
+	9
+	b.txt 1
+ layout
+	1
+	7
+	a.txt 1
+ learn
+	1
+	8
+	a.txt 1
+ legs
+	1
+	13
+	b.txt 1
+ limited
+	1
+	15
+	c.txt 1
+ localized
+	1
+	14
+	b.txt 1
+ logistic
+	1
+	16
+	c.txt 1
+ map
+	1
+	15
+	b.txt 1
+ meaningful
+	1
+	12
+	b.txt 1
+ methods
+	1
+	11
+	b.txt 1
+ model
+	1
+	14
+	c.txt 1
+ models
+	2
+	13
+	c.txt 2
+ monte
+	1
+	12
+	c.txt 1
+ more
+	1
+	14
+	c.txt 1
+ mostly
+	1
+	15
+	c.txt 1
+ multinomial
+	1
+	13
+	c.txt 1
+ network
+	3
+	10
+	a.txt 1
+	b.txt 2
+ networks
+	2
+	11
+	c.txt 2
+ neural
+	4
+	9
+	a.txt 1
+	b.txt 1
+	c.txt 2
+ noise
+	1
+	11
+	c.txt 1
+ non-existent
+	1
+	10
+	a.txt 1
+ noticably
+	1
+	12
+	c.txt 1
+ novel
+	1
+	11
+	b.txt 1
+ objective
+	1
+	12
+	c.txt 1
+ observations
+	1
+	6
+	a.txt 1
+ of
+	11
+	5
+	a.txt 6
+	b.txt 3
+	c.txt 2
+ off-the-shelf
+	1
+	11
+	a.txt 1
+ on
+	4
+	12
+	a.txt 1
+	b.txt 3
+ optionally
+	1
+	13
+	c.txt 1
+ or
+	1
+	10
+	a.txt 1
+ our
+	2
+	11
+	a.txt 2
+ outperforms
+	1
+	12
+	a.txt 1
+ paper
+	1
+	13
+	b.txt 1
+ parameters
+	1
+	9
+	a.txt 1
+ part
+	7
+	10
+	b.txt 7
+ parts
+	4
+	11
+	b.txt 4
+ pascal
+	1
+	12
+	b.txt 1
+ pedestrian
+	3
+	8
+	a.txt 3
+ pedestrians
+	1
+	11
+	a.txt 1
+ photometrically
+	1
+	10
+	a.txt 1
+ pose
+	4
+	9
+	a.txt 4
+ possible
+	1
+	15
+	c.txt 1
+ predict
+	2
+	14
+	b.txt 2
+ produces
+	2
+	15
+	c.txt 2
+ propose
+	2
+	13
+	b.txt 2
+ provide
+	1
+	12
+	a.txt 1
+ random
+	1
+	14
+	c.txt 1
+ range
+	1
+	13
+	c.txt 1
+ real
+	2
+	11
+	a.txt 2
+ recent
+	1
+	13
+	c.txt 1
+ recognition
+	1
+	12
+	b.txt 1
+ recogonisable
+	1
+	15
+	c.txt 1
+ regression
+	1
+	14
+	c.txt 1
+ relate
+	1
+	15
+	c.txt 1
+ related
+	1
+	13
+	b.txt 1
+ remains
+	1
+	14
+	c.txt 1
+ rendering
+	1
+	10
+	a.txt 1
+ renders
+	1
+	11
+	a.txt 1
+ report
+	1
+	15
+	b.txt 1
+ res-net
+	1
+	14
+	b.txt 1
+ research
+	2
+	17
+	c.txt 2
+ resemble
+	1
+	16
+	c.txt 1
+ respectively
+	1
+	15
+	b.txt 1
+ results
+	1
+	13
+	a.txt 1
+ scarce
+	1
+	12
+	a.txt 1
+ scene
+	4
+	7
+	a.txt 4
+ scene-and-region
+	1
+	10
+	a.txt 1
+ search
+	1
+	14
+	c.txt 1
+ second
+	1
+	13
+	b.txt 1
+ segmentation
+	1
+	12
+	a.txt 1
+ semantic
+	4
+	14
+	b.txt 4
+ semi-fcn
+	1
+	16
+	b.txt 1
+ several
+	1
+	15
+	b.txt 1
+ shallow
+	2
+	16
+	c.txt 2
+ show
+	1
+	13
+	a.txt 1
+ simultaneous
+	1
+	11
+	a.txt 1
+ single
+	2
+	9
+	a.txt 1
+	b.txt 1
+ sketches
+	1
+	12
+	c.txt 1
+ solution
+	1
+	11
+	a.txt 1
+ solutions
+	1
+	12
+	c.txt 1
+ spatially-varying
+	1
+	10
+	a.txt 1
+ specific
+	2
+	8
+	a.txt 2
+ stanford40
+	1
+	11
+	b.txt 1
+ state-of-the-art
+	1
+	10
+	a.txt 1
+ state-of-theart
+	1
+	11
+	b.txt 1
+ strategy
+	1
+	9
+	a.txt 1
+ strongly
+	1
+	10
+	b.txt 1
+ svm
+	1
+	12
+	b.txt 1
+ system
+	1
+	11
+	b.txt 1
+ test
+	1
+	12
+	c.txt 1
+ that
+	8
+	6
+	a.txt 5
+	b.txt 1
+	c.txt 2
+ the
+	20
+	4
+	a.txt 5
+	b.txt 8
+	c.txt 7
+ these
+	2
+	7
+	a.txt 1
+	b.txt 1
+ they
+	1
+	9
+	c.txt 1
+ this
+	2
+	8
+	b.txt 1
+	c.txt 1
+ through
+	1
+	6
+	a.txt 1
+ to
+	6
+	10
+	b.txt 3
+	c.txt 3
+ torso
+	1
+	9
+	b.txt 1
+ trained
+	1
+	8
+	a.txt 1
+ trajectory
+	1
+	11
+	c.txt 1
+ tree
+	1
+	12
+	c.txt 1
+ two
+	1
+	10
+	b.txt 1
+ unlike
+	1
+	9
+	b.txt 1
+ unrecognisable
+	1
+	11
+	c.txt 1
+ up
+	1
+	10
+	b.txt 1
+ use
+	2
+	7
+	a.txt 1
+	b.txt 1
+ used
+	1
+	9
+	b.txt 1
+ user
+	1
+	10
+	c.txt 1
+ using
+	3
+	8
+	a.txt 1
+	c.txt 2
+ variety
+	1
+	9
+	c.txt 1
+ very
+	1
+	10
+	c.txt 1
+ visual
+	2
+	5
+	a.txt 2
+ voc
+	1
+	7
+	b.txt 1
+ waving
+	1
+	6
+	b.txt 1
+ we
+	14
+	2
+	a.txt 3
+	b.txt 6
+	c.txt 5
+ when
+	1
+	4
+	a.txt 1
+ which
+	4
+	5
+	b.txt 1
+	c.txt 3
+ while
+	2
+	6
+	c.txt 2
+ with
+	1
+	7
+	c.txt 1
+ without
+	1
+	3
+	a.txt 1
+ writing
+	1
+	4
+	b.txt 1
+
+

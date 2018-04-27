@@ -1,0 +1,30 @@
+CREATEHALL "Red-Hall" "StarDust" 24 20
+CREATEHALL "Orange-Hall" "Last_Samurai" 10 20
+CREATEHALL "Blue-Hall" "London_has_fallen" 20 16
+BUYTICKET "London_has_fallen" G10 Student 1
+BUYTICKET "Last_Samurai" C4 FullFare 2
+BUYTICKET "London_has_fallen" B2 Student 2
+BUYTICKET "London_has_fallen" E12 FullFare 5
+BUYTICKET "StarDust" D5 Student 2
+BUYTICKET "StarDust" F8 Student 4
+BUYTICKET "StarDust" E8 Student 3
+BUYTICKET "StarDust" D7 FullFare 3
+BUYTICKET "London_has_fallen" C33 Student 2
+BUYTICKET "StarDust" A3 Student 4
+CANCELTICKET "StarDust" E8
+CANCELTICKET "StarDust" F8
+BUYTICKET "StarDust" E8 FullFare 2
+BUYTICKET "Last_Samurai" G5 FullFare 2
+BUYTICKET "StarDust" D8 FullFare 5
+BUYTICKET "London_hs_fallen" F3 Student 1
+BUYTICKET "Last_Samurai" H8 Student 3
+CANCELTICKET "London_has_fallen" R8
+CANCELTICKET "StarDust" C1
+BUYTICKET "London_has_fallen" F4 Student 2
+CANCELTICKET "" C3
+BUYTICKET "Last_Samurai" E15 Student 2
+CANCELTICKET "London_has_fallen" G10
+SHOWHALL "Blue-Hall"
+BUYTICKET "StarDust" B9 FullFare 3
+SHOWHALL "Red-Hall"
+STATISTICS
