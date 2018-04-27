@@ -1,0 +1,16 @@
+integer 686
+integer 5681
+hex AD1F
+integer 4
+hex 3FA
+hex 1E
+integer 280002
+hex 1AE002
+error
+error
+hex 2166
+error
+error
+hex 2AD
+integer 39
+hex -A8F0B2C
