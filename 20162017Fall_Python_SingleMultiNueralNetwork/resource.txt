@@ -1,0 +1,4 @@
+http://arctrix.com/nas/python/bpnn.py
+http://www.bogotobogo.com/python/python_Neural_Networks_Backpropagation_for_XOR_using_one_hidden_layer.php
+!!!! 
+http://neuralnetworksanddeeplearning.com/chap1.html#implementing_our_network_to_classify_digits
