@@ -1,0 +1,3 @@
+SELECT CID,LastName,City,FirstName WHERE SocialSecurityNumber>2399998 AND LastName~a  AND FirstName~G AND City~B
+SELECT CID,LastName,City,FirstName WHERE SocialSecurityNumber>739999998 AND SocialSecurityNumber<971368918 AND FirstName~Gil
+SELECT LastName,City,FirstName WHERE SocialSecurityNumber>869999998 AND SocialSecurityNumber<871368918
