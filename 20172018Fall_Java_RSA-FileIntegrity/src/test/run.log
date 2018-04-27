@@ -1,0 +1,2 @@
+plainImage.jpeg EncFile enc DES CTR 0,126000 
+EncFile deImage.jpeg dec DES CTR 0,154000 
