@@ -79,3 +79,17 @@ PS:Do not copy, chech out the codes and learn. Then write your own (if you're a 
 #### /20172018Spring_JavaServlet
 - Java code for intro to javaServlets 
 
+#### /20172018Spring_JavaSpring
+- Java code for basic to java spring (MAVEN project - JAVAEE)
+
+#### /20172018Spring_JavaSpringHibernatePlsql
+- Java code of integration of spring with hibernate through plsql (maven project - javaee)
+
+#### /20172018Spring_Python_GeneratingSentencesviaLanguageModelNGrams
+- Python code for generating sentences with Ngram language models
+
+#### /20172018Spring_Python_SpellCorrectionViaHidenMarkovModel
+- Python code for spell correction(hmm is used as lang model, viterbi alg used for best correction.)
+
+#### /20172018Spring_Python_TensorFlow_NeuralNetworkClassifierForSentiment
+- Python Tenforslow code for NN classifier for sentiment

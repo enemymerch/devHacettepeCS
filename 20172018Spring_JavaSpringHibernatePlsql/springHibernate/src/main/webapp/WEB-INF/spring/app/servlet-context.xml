@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans:beans xmlns="http://www.springframework.org/schema/mvc"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xmlns:beans="http://www.springframework.org/schema/beans"
+
+             xsi:schemaLocation="
+        http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc-3.0.xsd
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+    <annotation-driven />
+    <resources mapping="/resources/**" location="/resources/" />
+    <beans:bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+        <beans:property name="prefix" value="/WEB-INF/views/" />
+        <beans:property name="suffix" value=".jsp" />
+    </beans:bean>
+    <beans:import resource="controllers.xml" />
+
+    <beans:bean id="validator" class="org.springframework.validation.beanvalidation.LocalValidatorFactoryBean" />
+    <!-- Service beans -->
+    <beans:bean id="userService" class="com.can.service.UserServiceImpl"></beans:bean>
+    <beans:bean id="productService" class="com.can.service.ProductServiceImpl"></beans:bean>
+    <beans:bean id="orderService" class="com.can.service.OrderServiceImpl"></beans:bean>
+
+    <!-- Persistanace Layer beans -->
+    <beans:bean id="customerDao" class="com.can.dao.CustomerDaoImpl"></beans:bean>
+    <beans:bean id="orderDao" class="com.can.dao.OrderDaoImpl"></beans:bean>
+    <beans:bean id="productDao" class="com.can.dao.ProductDaoImpl"></beans:bean>
+
+</beans:beans>
