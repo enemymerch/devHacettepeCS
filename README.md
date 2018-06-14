@@ -4,7 +4,7 @@ Undergraduate-Assignments-Examples
 
 PS:Do not copy, chech out the codes and learn. Then write your own (if you're a student, otherwise you're free as a bird.)
 
-##contents
+#contents
 
 
 #### /20152016Spring_2_IntroductionToPyton
